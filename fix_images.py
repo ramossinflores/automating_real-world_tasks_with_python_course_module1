@@ -9,7 +9,7 @@ directory_new = f"{directory}_fixed"
 # Crea el directorio donde se guardaran las fotos , si no existe 
 try: 
     if not os.path.exists(directory_new):
-        os.makedir(directory_new)
+        os.mkdir(directory_new)
 except Exception as e:
     print(f"Error al crear el directorio: {e}")
 
