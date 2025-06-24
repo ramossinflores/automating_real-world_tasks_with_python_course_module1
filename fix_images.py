@@ -30,7 +30,7 @@ for photo in photos:
         # Guardar la imagen con el cambio de extensión 
         photo.save(f"{directory_new}/{photo_name}.png")
     except Exception as e:
-        print(f"Error al abrir la imagen {e}")
+        print(f"Error al procesar la imagen {e}")
 
     # Fuentes: 
     # https://www.toolify.ai/es/ai-news-es/manipulacin-de-imgenes-en-python-con-pillow-1149800#:~:text=Una%20vez%20que%20tenemos%20las,"from%20PIL%20import%20Image".
