@@ -1,10 +1,10 @@
-# 🧰 Módulo 1 – Automatización con Python: Manipulación de Imágenes con PIL
+# 🎞️ Módulo 1 – Automatización con Python: Manipulación de Imágenes con PIL
 
 Este repositorio contiene el proyecto del Módulo 1 del curso **Google IT Automation with Python**, donde se aprende a usar la biblioteca **Pillow (PIL)** para automatizar tareas de procesamiento de imágenes.
 
 
 
-## 🧠 Objetivo
+## 🎯 Objetivo
 
 Automatizar la edición de múltiples imágenes:
 
@@ -31,7 +31,7 @@ modulo1_PIL_automating_real-world_tasks_with_python_course/
 
 
 
-## 🚀 Cómo usar probar este módulo
+## 🧪 Cómo usar probar este módulo
 
 1. Instala las dependencias:
 
@@ -54,7 +54,7 @@ python fix_images.py
 * [Manipulación de imágenes con PIL – Toolify](https://www.toolify.ai/es/ai-news-es/manipulacin-de-imgenes-en-python-con-pillow-1149800#)
 * [Cómo crear un directorio con Python – FreeCodeCamp](https://www.freecodecamp.org/espanol/news/como-crear-un-directorio-con-python/)
 
-## ✍️ Autora
+## ✍ Autora
 
 **Laura Ramos Granados**
 Administrador de Sistemas Informáticos y Redes (ASIR)
